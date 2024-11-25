@@ -1,0 +1,2 @@
+# qrcodereader
+about qr code
